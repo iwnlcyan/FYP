@@ -1,0 +1,1276 @@
+fileFormatVersion: 2
+guid: ad54cf65b9998f341a6231ab09cefe97
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: ball_l
+  - first:
+      1: 100002
+    second: ball_r
+  - first:
+      1: 100004
+    second: Bip001
+  - first:
+      1: 100006
+    second: Bip001-L-ForeTwist
+  - first:
+      1: 100008
+    second: Bip001-L-ForeTwist1
+  - first:
+      1: 100010
+    second: Bip001-Ponytail1
+  - first:
+      1: 100012
+    second: Bip001-Prop1
+  - first:
+      1: 100014
+    second: Bip001-Prop2
+  - first:
+      1: 100016
+    second: Bip001-R-ForeTwist
+  - first:
+      1: 100018
+    second: Bip001-R-ForeTwist1
+  - first:
+      1: 100020
+    second: Bone_L_breast01
+  - first:
+      1: 100022
+    second: Bone_L_Brow01
+  - first:
+      1: 100024
+    second: Bone_L_Brow02
+  - first:
+      1: 100026
+    second: Bone_L_eye01
+  - first:
+      1: 100028
+    second: Bone_L_Eye02
+  - first:
+      1: 100030
+    second: Bone_L_Eye03
+  - first:
+      1: 100032
+    second: Bone_L_Eye06
+  - first:
+      1: 100034
+    second: Bone_L_Weapon
+  - first:
+      1: 100036
+    second: Bone_Mouth02
+  - first:
+      1: 100038
+    second: Bone_Mouth03
+  - first:
+      1: 100040
+    second: Bone_R_breast01
+  - first:
+      1: 100042
+    second: Bone_R_Brow01
+  - first:
+      1: 100044
+    second: Bone_R_Brow02
+  - first:
+      1: 100046
+    second: Bone_R_eye01
+  - first:
+      1: 100048
+    second: Bone_R_Eye02
+  - first:
+      1: 100050
+    second: Bone_R_Eye03
+  - first:
+      1: 100052
+    second: Bone_R_Eye05
+  - first:
+      1: 100054
+    second: Bone_R_Weapon
+  - first:
+      1: 100056
+    second: calf_l
+  - first:
+      1: 100058
+    second: calf_r
+  - first:
+      1: 100060
+    second: Cape_L_00
+  - first:
+      1: 100062
+    second: Cape_L_01
+  - first:
+      1: 100064
+    second: Cape_L_02
+  - first:
+      1: 100066
+    second: Cape_L_03
+  - first:
+      1: 100068
+    second: Cape_L_End
+  - first:
+      1: 100070
+    second: Cape_R_00
+  - first:
+      1: 100072
+    second: Cape_R_01
+  - first:
+      1: 100074
+    second: Cape_R_02
+  - first:
+      1: 100076
+    second: Cape_R_03
+  - first:
+      1: 100078
+    second: Cape_R_End
+  - first:
+      1: 100080
+    second: clavicle_l
+  - first:
+      1: 100082
+    second: Clavicle_LBone001
+  - first:
+      1: 100084
+    second: Clavicle_LBone002
+  - first:
+      1: 100086
+    second: clavicle_r
+  - first:
+      1: 100088
+    second: Clavicle_RBone001
+  - first:
+      1: 100090
+    second: Clavicle_RBone002
+  - first:
+      1: 100092
+    second: Cloth_B
+  - first:
+      1: 100094
+    second: Cloth_B_End
+  - first:
+      1: 100096
+    second: Cloth_F
+  - first:
+      1: 100098
+    second: Cloth_F_End
+  - first:
+      1: 100100
+    second: Cloth_FL_00
+  - first:
+      1: 100102
+    second: Cloth_FL_01
+  - first:
+      1: 100104
+    second: Cloth_FL_End
+  - first:
+      1: 100106
+    second: Cloth_FR_00
+  - first:
+      1: 100108
+    second: Cloth_FR_01
+  - first:
+      1: 100110
+    second: Cloth_FR_End
+  - first:
+      1: 100112
+    second: Cloth_L
+  - first:
+      1: 100114
+    second: Cloth_L_End
+  - first:
+      1: 100116
+    second: Cloth_Neck_L
+  - first:
+      1: 100118
+    second: Cloth_Neck_R
+  - first:
+      1: 100120
+    second: Cloth_R
+  - first:
+      1: 100122
+    second: Cloth_R_End
+  - first:
+      1: 100124
+    second: Dummy001
+  - first:
+      1: 100126
+    second: Dummy_L_Eye01
+  - first:
+      1: 100128
+    second: Dummy_LookAt
+  - first:
+      1: 100130
+    second: Dummy_R_Eye01
+  - first:
+      1: 100132
+    second: eyeSP_L
+  - first:
+      1: 100134
+    second: eyeSP_R
+  - first:
+      1: 100136
+    second: foot_l
+  - first:
+      1: 100138
+    second: foot_r
+  - first:
+      1: 100140
+    second: Fx_Bottom
+  - first:
+      1: 100142
+    second: Fx_Ground
+  - first:
+      1: 100144
+    second: Fx_Name
+  - first:
+      1: 100146
+    second: Fx_Top
+  - first:
+      1: 100148
+    second: Hair_B_00
+  - first:
+      1: 100150
+    second: Hair_B_01
+  - first:
+      1: 100152
+    second: Hair_B_02
+  - first:
+      1: 100154
+    second: Hair_B_03
+  - first:
+      1: 100156
+    second: Hair_B_End
+  - first:
+      1: 100158
+    second: Hair_F_00
+  - first:
+      1: 100160
+    second: Hair_F_01
+  - first:
+      1: 100162
+    second: Hair_F_End
+  - first:
+      1: 100164
+    second: Hair_FL_00
+  - first:
+      1: 100166
+    second: Hair_FL_01
+  - first:
+      1: 100168
+    second: Hair_FL_02
+  - first:
+      1: 100170
+    second: Hair_FL_End
+  - first:
+      1: 100172
+    second: Hair_FR_00
+  - first:
+      1: 100174
+    second: Hair_FR_01
+  - first:
+      1: 100176
+    second: Hair_FR_02
+  - first:
+      1: 100178
+    second: Hair_FR_End
+  - first:
+      1: 100180
+    second: hand_l
+  - first:
+      1: 100182
+    second: hand_r
+  - first:
+      1: 100184
+    second: head
+  - first:
+      1: 100186
+    second: //RootNode
+  - first:
+      1: 100188
+    second: index_01_l
+  - first:
+      1: 100190
+    second: index_01_r
+  - first:
+      1: 100192
+    second: index_02_l
+  - first:
+      1: 100194
+    second: index_02_r
+  - first:
+      1: 100196
+    second: lowerarm_l
+  - first:
+      1: 100198
+    second: lowerarm_r
+  - first:
+      1: 100200
+    second: middle_01_l
+  - first:
+      1: 100202
+    second: middle_01_r
+  - first:
+      1: 100204
+    second: middle_02_l
+  - first:
+      1: 100206
+    second: middle_02_r
+  - first:
+      1: 100208
+    second: neck_01
+  - first:
+      1: 100210
+    second: NP131_BD
+  - first:
+      1: 100212
+    second: NP131_HD
+  - first:
+      1: 100214
+    second: NP131_HM
+  - first:
+      1: 100216
+    second: NP131_HR
+  - first:
+      1: 100218
+    second: NP131_WP
+  - first:
+      1: 100220
+    second: Pelvis
+  - first:
+      1: 100222
+    second: Point001
+  - first:
+      1: 100224
+    second: Point002
+  - first:
+      1: 100226
+    second: Point003
+  - first:
+      1: 100228
+    second: Point004
+  - first:
+      1: 100230
+    second: Point005
+  - first:
+      1: 100232
+    second: Ribbon_00
+  - first:
+      1: 100234
+    second: Ribbon_01
+  - first:
+      1: 100236
+    second: Ribbon_End
+  - first:
+      1: 100238
+    second: ring_01_l
+  - first:
+      1: 100240
+    second: ring_01_r
+  - first:
+      1: 100242
+    second: ring_02_l
+  - first:
+      1: 100244
+    second: ring_02_r
+  - first:
+      1: 100246
+    second: Root
+  - first:
+      1: 100248
+    second: spine_01
+  - first:
+      1: 100250
+    second: spine_02
+  - first:
+      1: 100252
+    second: spine_03
+  - first:
+      1: 100254
+    second: SpineSpliter
+  - first:
+      1: 100256
+    second: thigh_l
+  - first:
+      1: 100258
+    second: thigh_r
+  - first:
+      1: 100260
+    second: thumb_01_l
+  - first:
+      1: 100262
+    second: thumb_01_r
+  - first:
+      1: 100264
+    second: thumb_02_l
+  - first:
+      1: 100266
+    second: thumb_02_r
+  - first:
+      1: 100268
+    second: Tooth_Bone01
+  - first:
+      1: 100270
+    second: upperarm_l
+  - first:
+      1: 100272
+    second: upperarm_r
+  - first:
+      4: 400000
+    second: ball_l
+  - first:
+      4: 400002
+    second: ball_r
+  - first:
+      4: 400004
+    second: Bip001
+  - first:
+      4: 400006
+    second: Bip001-L-ForeTwist
+  - first:
+      4: 400008
+    second: Bip001-L-ForeTwist1
+  - first:
+      4: 400010
+    second: Bip001-Ponytail1
+  - first:
+      4: 400012
+    second: Bip001-Prop1
+  - first:
+      4: 400014
+    second: Bip001-Prop2
+  - first:
+      4: 400016
+    second: Bip001-R-ForeTwist
+  - first:
+      4: 400018
+    second: Bip001-R-ForeTwist1
+  - first:
+      4: 400020
+    second: Bone_L_breast01
+  - first:
+      4: 400022
+    second: Bone_L_Brow01
+  - first:
+      4: 400024
+    second: Bone_L_Brow02
+  - first:
+      4: 400026
+    second: Bone_L_eye01
+  - first:
+      4: 400028
+    second: Bone_L_Eye02
+  - first:
+      4: 400030
+    second: Bone_L_Eye03
+  - first:
+      4: 400032
+    second: Bone_L_Eye06
+  - first:
+      4: 400034
+    second: Bone_L_Weapon
+  - first:
+      4: 400036
+    second: Bone_Mouth02
+  - first:
+      4: 400038
+    second: Bone_Mouth03
+  - first:
+      4: 400040
+    second: Bone_R_breast01
+  - first:
+      4: 400042
+    second: Bone_R_Brow01
+  - first:
+      4: 400044
+    second: Bone_R_Brow02
+  - first:
+      4: 400046
+    second: Bone_R_eye01
+  - first:
+      4: 400048
+    second: Bone_R_Eye02
+  - first:
+      4: 400050
+    second: Bone_R_Eye03
+  - first:
+      4: 400052
+    second: Bone_R_Eye05
+  - first:
+      4: 400054
+    second: Bone_R_Weapon
+  - first:
+      4: 400056
+    second: calf_l
+  - first:
+      4: 400058
+    second: calf_r
+  - first:
+      4: 400060
+    second: Cape_L_00
+  - first:
+      4: 400062
+    second: Cape_L_01
+  - first:
+      4: 400064
+    second: Cape_L_02
+  - first:
+      4: 400066
+    second: Cape_L_03
+  - first:
+      4: 400068
+    second: Cape_L_End
+  - first:
+      4: 400070
+    second: Cape_R_00
+  - first:
+      4: 400072
+    second: Cape_R_01
+  - first:
+      4: 400074
+    second: Cape_R_02
+  - first:
+      4: 400076
+    second: Cape_R_03
+  - first:
+      4: 400078
+    second: Cape_R_End
+  - first:
+      4: 400080
+    second: clavicle_l
+  - first:
+      4: 400082
+    second: Clavicle_LBone001
+  - first:
+      4: 400084
+    second: Clavicle_LBone002
+  - first:
+      4: 400086
+    second: clavicle_r
+  - first:
+      4: 400088
+    second: Clavicle_RBone001
+  - first:
+      4: 400090
+    second: Clavicle_RBone002
+  - first:
+      4: 400092
+    second: Cloth_B
+  - first:
+      4: 400094
+    second: Cloth_B_End
+  - first:
+      4: 400096
+    second: Cloth_F
+  - first:
+      4: 400098
+    second: Cloth_F_End
+  - first:
+      4: 400100
+    second: Cloth_FL_00
+  - first:
+      4: 400102
+    second: Cloth_FL_01
+  - first:
+      4: 400104
+    second: Cloth_FL_End
+  - first:
+      4: 400106
+    second: Cloth_FR_00
+  - first:
+      4: 400108
+    second: Cloth_FR_01
+  - first:
+      4: 400110
+    second: Cloth_FR_End
+  - first:
+      4: 400112
+    second: Cloth_L
+  - first:
+      4: 400114
+    second: Cloth_L_End
+  - first:
+      4: 400116
+    second: Cloth_Neck_L
+  - first:
+      4: 400118
+    second: Cloth_Neck_R
+  - first:
+      4: 400120
+    second: Cloth_R
+  - first:
+      4: 400122
+    second: Cloth_R_End
+  - first:
+      4: 400124
+    second: Dummy001
+  - first:
+      4: 400126
+    second: Dummy_L_Eye01
+  - first:
+      4: 400128
+    second: Dummy_LookAt
+  - first:
+      4: 400130
+    second: Dummy_R_Eye01
+  - first:
+      4: 400132
+    second: eyeSP_L
+  - first:
+      4: 400134
+    second: eyeSP_R
+  - first:
+      4: 400136
+    second: foot_l
+  - first:
+      4: 400138
+    second: foot_r
+  - first:
+      4: 400140
+    second: Fx_Bottom
+  - first:
+      4: 400142
+    second: Fx_Ground
+  - first:
+      4: 400144
+    second: Fx_Name
+  - first:
+      4: 400146
+    second: Fx_Top
+  - first:
+      4: 400148
+    second: Hair_B_00
+  - first:
+      4: 400150
+    second: Hair_B_01
+  - first:
+      4: 400152
+    second: Hair_B_02
+  - first:
+      4: 400154
+    second: Hair_B_03
+  - first:
+      4: 400156
+    second: Hair_B_End
+  - first:
+      4: 400158
+    second: Hair_F_00
+  - first:
+      4: 400160
+    second: Hair_F_01
+  - first:
+      4: 400162
+    second: Hair_F_End
+  - first:
+      4: 400164
+    second: Hair_FL_00
+  - first:
+      4: 400166
+    second: Hair_FL_01
+  - first:
+      4: 400168
+    second: Hair_FL_02
+  - first:
+      4: 400170
+    second: Hair_FL_End
+  - first:
+      4: 400172
+    second: Hair_FR_00
+  - first:
+      4: 400174
+    second: Hair_FR_01
+  - first:
+      4: 400176
+    second: Hair_FR_02
+  - first:
+      4: 400178
+    second: Hair_FR_End
+  - first:
+      4: 400180
+    second: hand_l
+  - first:
+      4: 400182
+    second: hand_r
+  - first:
+      4: 400184
+    second: head
+  - first:
+      4: 400186
+    second: //RootNode
+  - first:
+      4: 400188
+    second: index_01_l
+  - first:
+      4: 400190
+    second: index_01_r
+  - first:
+      4: 400192
+    second: index_02_l
+  - first:
+      4: 400194
+    second: index_02_r
+  - first:
+      4: 400196
+    second: lowerarm_l
+  - first:
+      4: 400198
+    second: lowerarm_r
+  - first:
+      4: 400200
+    second: middle_01_l
+  - first:
+      4: 400202
+    second: middle_01_r
+  - first:
+      4: 400204
+    second: middle_02_l
+  - first:
+      4: 400206
+    second: middle_02_r
+  - first:
+      4: 400208
+    second: neck_01
+  - first:
+      4: 400210
+    second: NP131_BD
+  - first:
+      4: 400212
+    second: NP131_HD
+  - first:
+      4: 400214
+    second: NP131_HM
+  - first:
+      4: 400216
+    second: NP131_HR
+  - first:
+      4: 400218
+    second: NP131_WP
+  - first:
+      4: 400220
+    second: Pelvis
+  - first:
+      4: 400222
+    second: Point001
+  - first:
+      4: 400224
+    second: Point002
+  - first:
+      4: 400226
+    second: Point003
+  - first:
+      4: 400228
+    second: Point004
+  - first:
+      4: 400230
+    second: Point005
+  - first:
+      4: 400232
+    second: Ribbon_00
+  - first:
+      4: 400234
+    second: Ribbon_01
+  - first:
+      4: 400236
+    second: Ribbon_End
+  - first:
+      4: 400238
+    second: ring_01_l
+  - first:
+      4: 400240
+    second: ring_01_r
+  - first:
+      4: 400242
+    second: ring_02_l
+  - first:
+      4: 400244
+    second: ring_02_r
+  - first:
+      4: 400246
+    second: Root
+  - first:
+      4: 400248
+    second: spine_01
+  - first:
+      4: 400250
+    second: spine_02
+  - first:
+      4: 400252
+    second: spine_03
+  - first:
+      4: 400254
+    second: SpineSpliter
+  - first:
+      4: 400256
+    second: thigh_l
+  - first:
+      4: 400258
+    second: thigh_r
+  - first:
+      4: 400260
+    second: thumb_01_l
+  - first:
+      4: 400262
+    second: thumb_01_r
+  - first:
+      4: 400264
+    second: thumb_02_l
+  - first:
+      4: 400266
+    second: thumb_02_r
+  - first:
+      4: 400268
+    second: Tooth_Bone01
+  - first:
+      4: 400270
+    second: upperarm_l
+  - first:
+      4: 400272
+    second: upperarm_r
+  - first:
+      21: 2100000
+    second: NP131_BD_MI
+  - first:
+      21: 2100002
+    second: Eyeshadow_MI
+  - first:
+      21: 2100004
+    second: NP131_HD_MI
+  - first:
+      21: 2100006
+    second: NP131_HM_MI
+  - first:
+      21: 2100008
+    second: NP131_HR_MI
+  - first:
+      21: 2100010
+    second: NP131_WP_MI
+  - first:
+      43: 4300000
+    second: NP131_BD
+  - first:
+      43: 4300002
+    second: NP131_HD
+  - first:
+      43: 4300004
+    second: NP131_HM
+  - first:
+      43: 4300006
+    second: NP131_HR
+  - first:
+      43: 4300008
+    second: NP131_WP
+  - first:
+      74: 7400000
+    second: idle2_f
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: NP131_BD
+  - first:
+      137: 13700002
+    second: NP131_HD
+  - first:
+      137: 13700004
+    second: NP131_HM
+  - first:
+      137: 13700006
+    second: NP131_HR
+  - first:
+      137: 13700008
+    second: NP131_WP
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle2_f
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: NP131_BD
+        weight: 1
+      - path: NP131_HD
+        weight: 1
+      - path: NP131_HM
+        weight: 1
+      - path: NP131_HR
+        weight: 1
+      - path: NP131_WP
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Bip001
+        weight: 1
+      - path: Root/Bip001/Pelvis
+        weight: 1
+      - path: Root/Bip001/Pelvis/Cloth_B
+        weight: 1
+      - path: Root/Bip001/Pelvis/Cloth_B/Cloth_B_End
+        weight: 1
+      - path: Root/Bip001/Pelvis/Cloth_F
+        weight: 1
+      - path: Root/Bip001/Pelvis/Cloth_F/Cloth_F_End
+        weight: 1
+      - path: Root/Bip001/Pelvis/Cloth_L
+        weight: 0
+      - path: Root/Bip001/Pelvis/Cloth_L/Cloth_L_End
+        weight: 0
+      - path: Root/Bip001/Pelvis/Cloth_R
+        weight: 1
+      - path: Root/Bip001/Pelvis/Cloth_R/Cloth_R_End
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/Bone_L_breast01
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/Bone_R_breast01
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/Cape_L_00
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/Cape_L_00/Cape_L_01
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/Cape_L_00/Cape_L_01/Cape_L_02
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/Cape_L_00/Cape_L_01/Cape_L_02/Cape_L_03
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/Cape_L_00/Cape_L_01/Cape_L_02/Cape_L_03/Cape_L_End
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/Cape_R_00
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/Cape_R_00/Cape_R_01
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/Cape_R_00/Cape_R_01/Cape_R_02
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/Cape_R_00/Cape_R_01/Cape_R_02/Cape_R_03
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/Cape_R_00/Cape_R_01/Cape_R_02/Cape_R_03/Cape_R_End
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/Cloth_FL_00
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/Cloth_FL_00/Cloth_FL_01
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/Cloth_FL_00/Cloth_FL_01/Cloth_FL_End
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/Dummy001
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/upperarm_l
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/upperarm_l/Bip001-L-ForeTwist
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/upperarm_l/Bip001-L-ForeTwist/Bip001-L-ForeTwist1
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/upperarm_l/Clavicle_LBone001
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/upperarm_l/Clavicle_LBone002
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/upperarm_l/lowerarm_l
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/upperarm_l/lowerarm_l/hand_l
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/upperarm_l/lowerarm_l/hand_l/Bip001-Prop2
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/upperarm_l/lowerarm_l/hand_l/index_01_l
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/upperarm_l/lowerarm_l/hand_l/index_01_l/index_02_l
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/upperarm_l/lowerarm_l/hand_l/middle_01_l
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/upperarm_l/lowerarm_l/hand_l/middle_01_l/middle_02_l
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/upperarm_l/lowerarm_l/hand_l/ring_01_l
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/upperarm_l/lowerarm_l/hand_l/ring_01_l/ring_02_l
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/upperarm_l/lowerarm_l/hand_l/thumb_01_l
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/upperarm_l/lowerarm_l/hand_l/thumb_01_l/thumb_02_l
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/upperarm_l/Point001
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_l/upperarm_l/Point002
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/Cloth_FR_00
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/Cloth_FR_00/Cloth_FR_01
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/Cloth_FR_00/Cloth_FR_01/Cloth_FR_End
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/Point003
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/upperarm_r
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/Bip001-R-ForeTwist
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/Bip001-R-ForeTwist/Bip001-R-ForeTwist1
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/Clavicle_RBone001
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/Clavicle_RBone002
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/Bip001-Prop1
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r/index_02_r
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r/middle_02_r
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r/ring_02_r
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r/thumb_02_r
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/Point004
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/Point005
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/Cloth_Neck_L
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/Cloth_Neck_R
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Bip001-Ponytail1
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Bone_L_Brow01
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Bone_L_Brow02
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Bone_L_eye01
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Bone_L_Eye02
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Bone_L_Eye03
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Bone_L_Eye06
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Bone_Mouth02
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Bone_Mouth03
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Bone_R_Brow01
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Bone_R_Brow02
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Bone_R_eye01
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Bone_R_Eye02
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Bone_R_Eye03
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Bone_R_Eye05
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Dummy_LookAt
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Dummy_LookAt/Dummy_L_Eye01
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Dummy_LookAt/Dummy_R_Eye01
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/eyeSP_L
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/eyeSP_R
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Fx_Top
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Hair_B_00
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Hair_B_00/Hair_B_01
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Hair_B_00/Hair_B_01/Hair_B_02
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Hair_B_00/Hair_B_01/Hair_B_02/Hair_B_03
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Hair_B_00/Hair_B_01/Hair_B_02/Hair_B_03/Hair_B_End
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Hair_F_00
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Hair_F_00/Hair_F_01
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Hair_F_00/Hair_F_01/Hair_F_End
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Hair_FL_00
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Hair_FL_00/Hair_FL_01
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Hair_FL_00/Hair_FL_01/Hair_FL_02
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Hair_FL_00/Hair_FL_01/Hair_FL_02/Hair_FL_End
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Hair_FR_00
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Hair_FR_00/Hair_FR_01
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Hair_FR_00/Hair_FR_01/Hair_FR_02
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Hair_FR_00/Hair_FR_01/Hair_FR_02/Hair_FR_End
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Ribbon_00
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Ribbon_00/Ribbon_01
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Ribbon_00/Ribbon_01/Ribbon_End
+        weight: 1
+      - path: Root/Bip001/Pelvis/SpineSpliter/spine_01/spine_02/spine_03/neck_01/head/Tooth_Bone01
+        weight: 1
+      - path: Root/Bip001/Pelvis/thigh_l
+        weight: 1
+      - path: Root/Bip001/Pelvis/thigh_l/calf_l
+        weight: 1
+      - path: Root/Bip001/Pelvis/thigh_l/calf_l/foot_l
+        weight: 1
+      - path: Root/Bip001/Pelvis/thigh_l/calf_l/foot_l/ball_l
+        weight: 1
+      - path: Root/Bip001/Pelvis/thigh_r
+        weight: 1
+      - path: Root/Bip001/Pelvis/thigh_r/calf_r
+        weight: 1
+      - path: Root/Bip001/Pelvis/thigh_r/calf_r/foot_r
+        weight: 1
+      - path: Root/Bip001/Pelvis/thigh_r/calf_r/foot_r/ball_r
+        weight: 1
+      - path: Root/Bone_L_Weapon
+        weight: 1
+      - path: Root/Bone_R_Weapon
+        weight: 1
+      - path: Root/Fx_Bottom
+        weight: 1
+      - path: Root/Fx_Ground
+        weight: 1
+      - path: Root/Fx_Name
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
