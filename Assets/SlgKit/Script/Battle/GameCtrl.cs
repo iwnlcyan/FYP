@@ -516,7 +516,7 @@ public class GameCtrl : MonoBehaviour
             //如果为true说明打中物体了
             if (result)
             {
-                //  Debug.Log(hit.point);
+                Debug.Log(hit.point);
 
                 return hit.point;
 

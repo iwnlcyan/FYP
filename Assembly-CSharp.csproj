@@ -51,6 +51,7 @@
      <Compile Include="Assets\JieTools\UGUICustomFont\BMGlyph.cs" />
      <Compile Include="Assets\JieTools\UGUICustomFont\BetterList.cs" />
      <Compile Include="Assets\JieTools\UGUICustomFont\ByteReader.cs" />
+     <Compile Include="Assets\MyDefaultTrackableEventHandler.cs" />
      <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
      <Compile Include="Assets\SlgKit\AstartEdit\GraphEventSystem.cs" />
      <Compile Include="Assets\SlgKit\AstartEdit\GridGraphKit.cs" />

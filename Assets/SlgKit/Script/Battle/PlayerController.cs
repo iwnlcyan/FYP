@@ -60,7 +60,7 @@ public class PlayerController : MonoBehaviour
 
     void worldPos2MapPos()
     {
-        this.transform.position = (Vector3)this.mapPos;
+        //this.transform.position = (Vector3)this.mapPos;
     }
 
 
