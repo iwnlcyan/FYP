@@ -270,10 +270,22 @@ public class UICtrl : MonoBehaviour
 
                 var screenPos = getScreenPos(Camera.main, player.transform.position + new Vector3(0, 4, 0));
                 player.hpImageTrs.position = screenPos;
-
+                // if (screenPos != null)
+                // {
+                //     Debug.Log("HP updated");
+                // }
+                // else
+                // {
+                //    Debug.Log("HP didnt update");
+                // }
 
             }
         }
+        else
+        {
+            //Debug.Log("_updateHpImage error");
+        }
+
     }
 
 

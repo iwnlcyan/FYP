@@ -53,8 +53,8 @@ public class GameCtrl : MonoBehaviour
         var size = gridGraph.nodeSize;
         mapBounds = new Bounds(gridGraph.center, new Vector3(gridGraph.width * size, 10, size * gridGraph.depth));
 
-        // UICtrl.instance.Init_HpImage();
-        // StartCoroutine(this.C_StartGame());
+        UICtrl.instance.Init_HpImage();
+        StartCoroutine(this.C_StartGame());
 
         EventDispatcher.instance.Regist<PlayerController>(GameEventType.death, OnDeath);
 
