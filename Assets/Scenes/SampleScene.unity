@@ -452,7 +452,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 662656317}
   m_LocalRotation: {x: -0, y: 0.9546888, z: -0.29760617, w: 0}
-  m_LocalPosition: {x: 0.459, y: 1.954, z: 2.029}
+  m_LocalPosition: {x: 0.459, y: 1.53, z: 1.69}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -6689,7 +6689,7 @@ MonoBehaviour:
     striking_Range_Min: 0
     striking_Range_Max: 1
   target: {fileID: 0}
-  moveSpeed: 7
+  moveSpeed: 1
   job: 0
   state: 0
   waitPath_StrikingRange: 0
@@ -22707,7 +22707,7 @@ MonoBehaviour:
     striking_Range_Min: 0
     striking_Range_Max: 1
   target: {fileID: 0}
-  moveSpeed: 7
+  moveSpeed: 1
   job: 0
   state: 0
   waitPath_StrikingRange: 0
@@ -22847,7 +22847,7 @@ MonoBehaviour:
     striking_Range_Min: 0
     striking_Range_Max: 1
   target: {fileID: 0}
-  moveSpeed: 7
+  moveSpeed: 1
   job: 0
   state: 0
   waitPath_StrikingRange: 1
@@ -25007,7 +25007,7 @@ MonoBehaviour:
     striking_Range_Min: 0
     striking_Range_Max: 1
   target: {fileID: 0}
-  moveSpeed: 7
+  moveSpeed: 1
   job: 0
   state: 0
   waitPath_StrikingRange: 0
