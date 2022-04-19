@@ -1,3 +1,2 @@
 # FYP
-Final Year Project
-Development of an AI-Enabled AR Table Game
+Final Year Project: Development of an AI-Enabled AR Table Game
