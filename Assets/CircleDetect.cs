@@ -2,13 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
  
-/// <summary>
-/// 圆形检测，并绘制出运行的攻击范围
-/// </summary>
 public class CircleDetect : MonoBehaviour {
  
-    GameObject go;    //生成矩形的对象
-    public Transform attack;        //被攻击方
+    GameObject go;    //Local object
+    public Transform attack;        //detected target
     public float Radius;
     MeshFilter mf;
     MeshRenderer mr;
@@ -41,13 +38,7 @@ public class CircleDetect : MonoBehaviour {
         }
 	}
  
-    /// <summary>
-    /// 圆形检测
-    /// </summary>
-    /// <param name="attacked">被攻击者</param>
-    /// <param name="skillPostion">技能的位置</param>
-    /// <param name="radius">半径</param>
-    /// <returns></returns>
+
     public bool CircleAttack(Transform attacked, Transform skillPostion, float radius)
     {
         float distance = Vector3.Distance(attacked.position, skillPostion.position);
@@ -61,16 +52,15 @@ public class CircleDetect : MonoBehaviour {
         }
     }
  
-    //生成网格
     public GameObject CreateMesh(List<Vector3> vertices)
     {
         int[] triangles;
         Mesh mesh = new Mesh();
         int triangleAmount = vertices.Count - 2;
         triangles = new int[3 * triangleAmount];
- 
-        //根据三角形的个数，来计算绘制三角形的顶点顺序
-        //顺序必须为顺时针或者逆时针
+
+        //Calculate the order of vertices for drawing triangles based on the number of trianglesv
+        //The order must be clockwise or counterclockwise
         for (int i = 0; i < triangleAmount; i++)
         {
             triangles[3 * i] = 0;
@@ -88,9 +78,9 @@ public class CircleDetect : MonoBehaviour {
             mr = go.AddComponent<MeshRenderer>();
             shader = Shader.Find("Unlit/Color");
         }
-        //分配一个新的顶点位置数组
+        //Allocate a new array of vertex positions
         mesh.vertices = vertices.ToArray();
-        //包含网格中所有三角形的数组
+        //An array containing all triangles in the mesh
         mesh.triangles = triangles;
         mf.mesh = mesh;
         mr.material.shader = shader;
@@ -99,12 +89,6 @@ public class CircleDetect : MonoBehaviour {
  
     }
  
-    /// <summary>
-    /// 绘制实心圆形
-    /// </summary>
-    /// <param name="t">圆形参考物</param>
-    /// <param name="center">圆心</param>
-    /// <param name="radius">半径</param>
     public void ToDrawCircleSolid(Transform t, Vector3 center, float radius)
     {
         int pointAmount = 100;
