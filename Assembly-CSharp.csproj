@@ -56,6 +56,16 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\CircleDetect.cs" />
+     <Compile Include="Assets\CustomAssets\WFC\Scripts\V1_Deprecated\WFC_Constraint.cs" />
+     <Compile Include="Assets\CustomAssets\WFC\Scripts\V1_Deprecated\WFC_Master.cs" />
+     <Compile Include="Assets\CustomAssets\WFC\Scripts\V1_Deprecated\WFC_ProtoType.cs" />
+     <Compile Include="Assets\CustomAssets\WFC\Scripts\V1_Deprecated\WFC_StudyMode.cs" />
+     <Compile Include="Assets\CustomAssets\WFC\Scripts\V2\WFCV2_Banned.cs" />
+     <Compile Include="Assets\CustomAssets\WFC\Scripts\V2\WFCV2_CellInfo.cs" />
+     <Compile Include="Assets\CustomAssets\WFC\Scripts\V2\WFCV2_Main.cs" />
+     <Compile Include="Assets\CustomAssets\WFC\Scripts\V2\WFFV2_Lights.cs" />
+     <Compile Include="Assets\CustomAssets\WFC\Scripts\WFC_ReplicateLastInEditMode.cs" />
+     <Compile Include="Assets\CustomAssets\WFC\Scripts\WFC_Spawned_Data.cs" />
      <Compile Include="Assets\HitEffect\Demo Scene\ButtonAnimation.cs" />
      <Compile Include="Assets\HitEffect\Demo Scene\GameManager.cs" />
      <Compile Include="Assets\HitEffect\SelfDestruct.cs" />
