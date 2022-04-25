@@ -75,7 +75,7 @@ MonoBehaviour:
   m_MinSize: {x: 102, y: 221}
   m_MaxSize: {x: 4002, y: 8021}
   vertical: 1
-  controlID: 127
+  controlID: 193
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_MinSize: {x: 231, y: 542}
   m_MaxSize: {x: 10001, y: 20042}
   vertical: 1
-  controlID: 23
+  controlID: 42
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -177,7 +177,7 @@ MonoBehaviour:
   m_MinSize: {x: 303, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 237
+  controlID: 216
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -291,10 +291,10 @@ MonoBehaviour:
     y: 30
     width: 2107
     height: 1142
-  m_MinSize: {x: 608, y: 763}
-  m_MaxSize: {x: 18003, y: 24063}
+  m_MinSize: {x: 610, y: 763}
+  m_MaxSize: {x: 18005, y: 24063}
   vertical: 1
-  controlID: 281
+  controlID: 284
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -316,10 +316,10 @@ MonoBehaviour:
     y: 0
     width: 2107
     height: 1142
-  m_MinSize: {x: 608, y: 763}
-  m_MaxSize: {x: 18003, y: 24063}
+  m_MinSize: {x: 610, y: 763}
+  m_MaxSize: {x: 18005, y: 24063}
   vertical: 0
-  controlID: 282
+  controlID: 285
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -344,7 +344,7 @@ MonoBehaviour:
   m_MinSize: {x: 333, y: 763}
   m_MaxSize: {x: 14003, y: 24063}
   vertical: 1
-  controlID: 125
+  controlID: 191
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -369,7 +369,7 @@ MonoBehaviour:
   m_MinSize: {x: 333, y: 542}
   m_MaxSize: {x: 14003, y: 20042}
   vertical: 0
-  controlID: 126
+  controlID: 192
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -764,9 +764,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 445a0000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 6afbffffce400000e440000094470000
+      m_SelectedIDs: 68fbffff
+      m_LastClickedID: -1176
+      m_ExpandedIDs: 6afbffffce400000e4400000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1060,20 +1060,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Edu
   m_LastFoldersGridSize: 16
   m_LastProjectPath: E:\demo\fyp\FYPrecovered\FYPrecovered
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 120}
-    m_SelectedIDs: 6e5a0000
-    m_LastClickedID: 23150
-    m_ExpandedIDs: 00000000de3e000000ca9a3b
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: de3e0000
+    m_LastClickedID: 16094
+    m_ExpandedIDs: 00000000de3e0000565a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1089,7 +1089,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 17}
+      m_ClientGUIView: {fileID: 8}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -1153,7 +1153,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 95}
     m_GridSize: 16
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 110
