@@ -148,10 +148,8 @@ public class GameCtrl : MonoBehaviour
 
         if (hitWorldPoint != null)
         {
-            Debug.Log("hitWorldPoint is "+hitWorldPoint);
             var hitMapNode = AstarPath.active.GetNearest((Vector3)hitWorldPoint).node;
             var hitMapPos = hitMapNode.position;
-            Debug.Log("hitMapPos is "+hitMapPos);
 
             if (showskillReleaseRange)
             {
@@ -197,15 +195,6 @@ public class GameCtrl : MonoBehaviour
 
             }
 
-            //If hit play print log
-            // if (hitPlayer != null)
-            // {
-            //     Debug.Log("Hit player");
-            // }
-            // else
-            // {
-            //     Debug.Log("Doesn't hit");
-            // }
 
             //假如点击的玩家为不可控制的门派则仅显示移动范围
             if (hitPlayer != null && hitPlayer.sect != mySect)
@@ -527,7 +516,7 @@ public class GameCtrl : MonoBehaviour
             //如果为true说明打中物体了
             if (result)
             {
-                Debug.Log(hit.point);
+                //  Debug.Log(hit.point);
 
                 return hit.point;
 

@@ -60,15 +60,15 @@ public class PlayerController : MonoBehaviour
 
     void worldPos2MapPos()
     {
-        //this.transform.position = (Vector3)this.mapPos;
+        this.transform.position = (Vector3)this.mapPos;
     }
 
 
     void Start()
     {
-        // StartCoroutine(TestUpdate());
+        //StartCoroutine(TestUpdate());
 
-        //  StartCoroutine(TestUpdateAB_path());
+        StartCoroutine(TestUpdateAB_path());
 
         ApplyLevelcfg();
 
@@ -653,7 +653,10 @@ public class PlayerController : MonoBehaviour
     }
 
 
-//Search the move path
+    /// <summary>
+    /// 获取移动路径
+    /// </summary>
+    /// <param name="OnPathSerchOkCallBack"></param>
     public void GetMovePath(System.Action<Path> OnPathSerchOkCallBack)
     {
         var moveGScore = this.moveRange * 1000 * 3;
@@ -674,13 +677,13 @@ public class PlayerController : MonoBehaviour
         }
 
         );
-        //Return the search result
+        //异步返回搜索结果
         AstarPath.StartPath(SerchPath, true);
     }
 
 
 
-//Show the move path
+
 
     void ShowAB_Path()
     {
@@ -691,7 +694,10 @@ public class PlayerController : MonoBehaviour
 
     }
 
-    //Get the move path between the local node and the (selected) enemy node
+    /// <summary>
+    /// 获取两个点之间行走路径
+    /// </summary>
+    /// <param name="position"></param>
     public void GetMoveABPathCallback(Vector3 p_start, Vector3 end, System.Action<ABPath> v_path)
     {
         Vector3 p_endpos = (Vector3)AstarPath.active.GetNearest(end, new NNCPlayerMove()).node.position;

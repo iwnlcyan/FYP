@@ -91,6 +91,7 @@
      <Compile Include="Assets\SlgKit\Script\Battle\Astart\Paths\StrikingRangeABPath.cs" />
      <Compile Include="Assets\SlgKit\Script\Battle\Astart\Paths\StrikingRangePath.cs" />
      <Compile Include="Assets\SlgKit\Script\Battle\Attribute.cs" />
+     <Compile Include="Assets\SlgKit\Script\Battle\GameControll.cs" />
      <Compile Include="Assets\SlgKit\Script\Battle\GameCtrl.cs" />
      <Compile Include="Assets\SlgKit\Script\Battle\GridMeshManager.cs" />
      <Compile Include="Assets\SlgKit\Script\Battle\PlayerController.cs" />

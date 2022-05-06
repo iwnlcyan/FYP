@@ -59,7 +59,7 @@ public class AstarPath : MonoBehaviour {
 	public AstarData astarData;
 	
 	/** Returns the active AstarPath object in the scene.*/
-	public static AstarPath active;
+	public new static AstarPath active;
 	
 	/** Shortcut to Pathfinding.AstarData.graphs */
 	public NavGraph[] graphs {

@@ -57,7 +57,7 @@ namespace PathologicalGames
         /// <summary>
         /// Matches new instances to the SpawnPool GameObject's scale.
         /// </summary>
-        public bool matchPoolScale = true;
+        public bool matchPoolScale = false;
 
         /// <summary>
         /// Matches new instances to the SpawnPool GameObject's layer.

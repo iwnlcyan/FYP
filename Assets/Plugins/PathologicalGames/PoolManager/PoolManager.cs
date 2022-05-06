@@ -90,7 +90,7 @@ namespace PathologicalGames
 			}
 			else
 			{
-				Object.DestroyImmediate(instance);
+				Object.Destroy(instance);
 			}
 		}
 	}

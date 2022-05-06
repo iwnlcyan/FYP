@@ -27,7 +27,7 @@ public class GridMeshManager : Singleton<GridMeshManager>
     SpawnPool m_Pool_strRangeMesh;
     public GridMeshManager()
     {
-       // node_size = (AstarPath.active.graphs[0] as GridGraph).nodeSize;
+        node_size = (AstarPath.active.graphs[0] as GridGraph).nodeSize;
 
         var pool_Go_green = Resources.Load<GameObject>("Prefab/PoolItem/Pool_GreenMesh");
         var i_Go_green = GameObject.Instantiate(pool_Go_green);

@@ -338,7 +338,7 @@ public class GridGraphKitInspector : Editor
     private void OnSceneGuiDelegate(SceneView sceneView)
     {
 
-        Debug.Log("OnSceneGuiDelegate");
+        //Debug.Log("OnSceneGuiDelegate");
 
         
 
