@@ -66,9 +66,9 @@ public class PlayerController : MonoBehaviour
 
     void Start()
     {
-        //StartCoroutine(TestUpdate());
+        // StartCoroutine(TestUpdate());
 
-        StartCoroutine(TestUpdateAB_path());
+        //  StartCoroutine(TestUpdateAB_path());
 
         ApplyLevelcfg();
 
