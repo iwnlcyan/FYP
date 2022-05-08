@@ -208,13 +208,13 @@
      <None Include="Assets\IL3DN\Shaders\IL3DN_Terrain.shader" />
      <None Include="Assets\IL3DN\Shaders\IL3DN_Branch.shader" />
      <None Include="Assets\TBTK\Texture&amp;Material\UI&amp;Overlay\SpriteGrayScale.shader" />
+     <None Include="Assets\StreamingAssets\Vuforia\FYPDatabase.xml" />
      <None Include="Assets\TBTK\CustomMesh\Modular_SciFi_Asset_Set\Shader\BlendColorsOverlayTexture.shader" />
      <None Include="Assets\IL3DN\Shaders\IL3DN_Decals.shader" />
      <None Include="Assets\IL3DN\Shaders\IL3DN_Leaf.shader" />
      <None Include="Assets\IL3DN\Shaders\IL3DN_Cloud.shader" />
      <None Include="Assets\IL3DN\Shaders\IL3DN_Grass.shader" />
      <None Include="Assets\IL3DN\Shaders\IL3DN_OpaqueSurface.shader" />
-     <None Include="Assets\StreamingAssets\Vuforia\FYPDatabase.xml" />
      <None Include="Assets\IL3DN\Shaders\IL3DN_Fog.shader" />
      <None Include="Assets\SlgKit\ftn\num.fnt" />
  <Reference Include="UnityEngine">
