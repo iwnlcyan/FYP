@@ -55,7 +55,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\CircleDetect.cs" />
+     <Compile Include="Assets\CircleDetectAttack.cs" />
      <Compile Include="Assets\CustomAssets\WFC\Scripts\V1_Deprecated\WFC_Constraint.cs" />
      <Compile Include="Assets\CustomAssets\WFC\Scripts\V1_Deprecated\WFC_Master.cs" />
      <Compile Include="Assets\CustomAssets\WFC\Scripts\V1_Deprecated\WFC_ProtoType.cs" />

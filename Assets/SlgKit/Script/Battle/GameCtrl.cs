@@ -377,11 +377,11 @@ public class GameCtrl : MonoBehaviour
     {
         if (curSelect.moving) return;
 
-        if (curSelect.skill[id].activeSkillConfig.cd > 0)
-        {
-            Debug.Log("技能还没冷却");
-            return;
-        }
+        //if (curSelect.skill[id].activeSkillConfig.cd > 0)
+        //{
+        //    Debug.Log("技能还没冷却");
+        //    return;
+        //}
 
         lastSkillId = id;
         ShowActiveSkill_ReleaseRange();

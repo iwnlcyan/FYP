@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
  
-public class CircleDetect : MonoBehaviour {
+public class CircleDetectAttack : MonoBehaviour {
  
     GameObject go;    //Local object
     public Transform attack;        //detected target
@@ -10,18 +10,23 @@ public class CircleDetect : MonoBehaviour {
     MeshFilter mf;
     MeshRenderer mr;
     Shader shader;
- 
-	void Start () {
+
+    void Start () {
 		
 	}
 	
 	void Update () {
+
+        var idAttack = 0;
+
         if (Input.GetKeyDown(KeyCode.A))
         {
             ToDrawCircleSolid(transform, transform.localPosition, Radius);
             if (CircleAttack(attack,transform,Radius))
             {
-                Debug.Log("In the Range");
+                GameCtrl.instance.UseSkill(idAttack);
+                //UICtrl.instance.skill_slotClick(5);
+                Debug.Log("In of the Range");
             }
             else
             {
