@@ -17,14 +17,14 @@ public class CircleDetectHeal : MonoBehaviour {
 	
 	void Update () {
 
-        var idAttack = 0;
+        var idHeal= 2;
 
         if (Input.GetKeyDown(KeyCode.A))
         {
             ToDrawCircleSolid(transform, transform.localPosition, Radius);
             if (CircleAttack(attack,transform,Radius))
             {
-                GameCtrl.instance.UseSkill(idAttack);
+                GameCtrl.instance.UseSkill(idHeal);
                 //UICtrl.instance.skill_slotClick(5);
                 Debug.Log("In of the Range");
             }
